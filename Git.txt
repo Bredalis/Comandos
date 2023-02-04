@@ -1,0 +1,76 @@
+
+Inicio de Algoritmo
+                                              
+    Comandos basicos para entender Git y trabajar con Github
+
+    Comandos De Git
+
+    cd (Para usar la carpeta)
+
+    ls (Cantidad y visualizacion de carpetas)
+
+    git init (Iniciar con Git)
+
+    git status (Ver estado de carpeta)
+
+    git add (para añadir , segun el nombre de la carpeta)
+
+    git commint (Escribir mensajes por cambio en la carpeta)
+
+    git commit -m "" (Es otra alternativa)
+
+    git log (Ver los ultimos datos de la carpeta)
+
+    git diff (Para ver las ultimas diferencias en carpeta)
+
+    git branch (Ver las ramas)
+
+    git branch (Nuevo nombre de rama)
+
+    git checkout -b (nombre) # Crear una nueva rama
+
+    git checkout -- . (Para poner la carpeta en su estado antiguo)
+
+    git branch -D (nombre_rama) #borrar ramas
+
+    git rm -r (micarpeta) # borrar carpetas
+
+    git clone se usa para copiar un repositorio. Si el repositorio está en un servidor remoto, usa:
+	git clone nombredeusuario@host:/path/to/repository
+
+    A la inversa, ejecuta el siguiente comando básico para copiar un repositorio local:
+	git clone /path/to/repository
+
+    git clone se usa para copiar un repositorio. Si el repositorio está en un servidor remoto, usa:
+	git clone nombredeusuario@host:/path/to/repository
+
+    git config puede ser usado para establecer una configuración específica de usuario, como el email, nombre de usuario y tipo de formato, etc. Por ejemplo, el siguiente comando se usa para establecer un email:
+	git config --global user.email tuemail@ejemplo.com
+ 
+    git push se usa para enviar confirmaciones locales a la rama maestra del repositorio remoto. Aquí está la estructura básica del código:
+	git push  origin <master>
+
+    git remote te permite ver todos los repositorios remotos. El siguiente comando listará todas las conexiones junto con sus URLs:    
+    	git remote -v
+
+    Para conectar el repositorio local a un servidor remoto, usa este comando:
+    	git remote add origin <host-or-remoteURL>
+
+    Por otro lado, el siguiente comando borrará una conexión a un repositorio remoto especificado:
+    	git remote <nombre-del-repositorio>
+
+    git stash guardará momentáneamente los cambios que no están listos para ser confirmados. De esta manera, pudes volver al proyecto más tarde.
+	git stash
+
+    git show se usa para mostrar información sobre cualquier objeto git.
+	git show
+
+    git reset . (Para reiniciar el add .)
+
+    git commit --amend (Para arreglar el ultimo commit)
+
+    git checkout (Nombre de rama , para cambiar)
+
+    git merge (Nombre de la rama) # Para fucionarla con las demas ramas
+
+Fin Del Algoritmo

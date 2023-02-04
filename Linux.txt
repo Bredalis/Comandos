@@ -1,0 +1,29 @@
+ Inicio
+
+Comandos Básicos para trabajar en la terminal de Linux
+
+ pwd (comando para saber la ruta de una carpeta)
+
+ cd "Nombre"(Comando para cambiar de directorio)
+
+ cd ..(Comando para cambiar de carpeta o directorio)
+
+ ls (Comando para ver los archivos de un directorio)
+ 
+ ll (Comando para ver los archivos en vertical) 
+
+ ll -a (Comando para ver archivos ocultos)
+
+Comandos para manipular archivos
+
+ mkdir "Nombre" (Comando para crear carpetas)
+
+ cp "Nombre del archivo a copiar" "Nombre del directorio a donde se va a copiar el archivo" (Comando para copiar archivos)
+
+ mv "Nombre del archivo a copiar" "Nombre del directorio a donde se movera el archivo" (Comando para mover un archivo)
+
+Comandos para borrar archivos
+
+ rm "Ruta de archivo a borrar" -R (Comando para borrar archivos) 
+ 
+ Fin

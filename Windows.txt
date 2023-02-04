@@ -1,0 +1,128 @@
+
+Inicio de Algoritmo
+
+   	dir (Comando para ver todas las carpetas de un directorio)
+
+   	cd (Comando para cambiar de carpeta)
+
+   	cls (Comando para limpiar la pantalla)
+
+   	cd ../ (Comando para volver al reposotorio anterior)
+
+   	cd/ (Comando para ir al disco duro)
+
+   	del "Nombre de archivo" (Comando para borrar un archivo)
+   
+   	nkdir "Nombre" (Comando para crear carpetas por el disco duro)
+
+   	rndir "Nombre" (Comando para remover carpetas)
+
+   	bitsadmin: (Comando que crea y monitorea las cargas y descargar)
+
+  	break: (Comando que desactiva la comprobación Ctrl+C en MS-DOS con la que se podían detener procesos en el antiguo sistema operativo)
+
+	call: (Comando que llama a un archivo batch dentro de otro archivo batch)
+
+	chcp: (Comando que cambia la página de código actual (tabla de códigos) o muestra el número de páginas de la página de código actual)
+
+	chdir: (Comando que muestra el directorio actual y permite cambiar a otros directorios)
+
+	choice: (Comando que crea una lista de selección)
+
+	clip: (Comando que envía el resultado de un comando al portapapeles , (clip < nombre de archivo) en el portapapeles)
+
+	color: (Comando que modifica el color del fondo y del texto)
+
+	date: (Comando que muestra la fecha actual y permite modificarla)
+
+	debug: (Comando que inicia Debug, un programa con el que se pueden probar y modificar programas en la terminal)
+
+	dosshell: (Comando que abre DOS Shell)
+
+	echo: (Comando que muestra un mensaje y es utilizado, sobre todo, en scripts y archivos batch)
+
+	edit: (Comando que inicia el editor de MS-DOS, que permite crear archivos de texto)
+
+	edlin: (Comando que crea y edita archivos de texto en la terminal)
+
+	exit: (Comando que pone fin a CMD.EXE o CMD.COM.)
+
+	fastopen: (Comando que escribe la posición de un programa en una lista específica situada en la memoria y que debe acelerar el inicio del programa)
+
+	find: (Comando que busca una cadena de caracteres específica en uno o varios archivos)
+
+	graphics: (Comando que inicia un programa con el que pueden imprimirse gráficos)
+
+	help: (Comando que muestra un texto de ayuda para un comando específico. También el comando /?)
+
+	logoff: (Comando que cierra la sesión del usuario en Windows y también permite terminar sesiones en los servidores)
+
+	mkdir: (Comando que crea un nuevo directorio en la ruta especificada. Si los directorios ya no existen en la ruta, emkdir los genera automáticamente. Alternativamente también puede utilizarse el comando md)
+
+	more: (Comando que muestra el contenido de un archivo (por ejemplo, de un archivo de texto) por páginas, pero también puede dividir la salida de otro comando en páginas)
+
+	msg: (Comando que envía un mensaje a otro usuario. Pueden escribirse los nombres de usuario en el comando o crear archivos para guardar dichos nombres. Los archivos pueden integrarse en el comando mediante @nombredearchivo)
+
+	path: (Comando que especifica la ruta para buscar archivos ejecutables y los muestra)
+
+	pause: (Comando que detiene la ejecución en archivos y scripts batch. Mediante un mensaje se le pedirá al usuario que pulse una tecla para continuar)
+
+	prompt: (Comando que cambia la visualización del símbolo del sistema)
+
+	shutdown: (Comando que apaga el ordenador (/s), lo reinicia (/r) o cierra la sesión del usuario (/l). Se muestra una interfaz de usuario gráfica al introducir el parámetro /i como primera opción en el comando)
+
+	start: (Comando que abre una nueva ventana de la terminal en la que puede ejecutarse un programa específico o un comando)
+
+	tree: (Comando que muestra gráficamente la estructura de directorios de una unidad o ruta. Con el parámetro /F se listan todos los archivos en las carpetas. /A se encarga de que solo se utilicen códigos ASCII en la representación gráfica. El comando tiene en cuenta todos los subdirectorios a partir de la ruta especificada. Si no se ofrece una ruta, la carpeta actual será utilizada como salida)
+
+  Sistema
+
+	mem: (Comando que muestra información sobre la memoria e indica qué programas se han cargado en esta)
+
+	memmaker: (Comando que optimiza la memoria)
+
+	mode: (Comando que configura dispositivos de sistema, sobre todo en puertos COM o LPT)
+
+	msav: (Comando que inicia Microsoft Antivirus)
+
+Comando CMD	Descripción	Versión de Windows
+
+	checknetisolation: (Comando que prueba las apps de la Windows Store en la capacidad de tu red)
+
+	getmac: (Comano que muestra la dirección MAC de todos los adaptadores de red. El formato de salida (table, list, CSV) se especifica con /FO. Con /S también puede utilizarse el comando en sistemas remotos)
+	
+	hostname: (Comando que ofrece el nombre del host actual)
+
+	interlnk: (Comando que conecta dos ordenadores por medio de conexión paralela o en serie para compartir archivos o impresoras)
+
+	nbtstat: (Comando que muestra estadísticas y datos sobre conexiones TCP/IP en ordenadores remotos)
+
+	net: (Comando que configura y muestra ajustes de red)
+
+	ntsd: (Comando que lleva a cabo la depuración (debugging))
+
+	qappsrv: (Comando que muestra todos los ordenadores remotos de la red)
+
+	qwinsta: (Comando que proporciona información sobre las sesiones de escritorio remoto abiertas)
+
+	shadow: (Comando que supervisa la sesión en un ordenador remoto y con él el usuario puede controlar activamente dicho ordenador remoto)
+
+	telnet: (Comando que permite la comunicación con otro ordenador que también utilice el protocolo Telnet)
+
+	tscon: (Comando que conecta la sesión actual del usuario local con una sesión en un ordenador remoto)
+
+	tsdiscon: (Comando  que finaliza la conexión entre una sesión de usuario local y la de un ordenador remoto)
+
+	tskill: (Comando que termina un proceso en un ordenador remoto)
+
+	tsshutdn: (Comando que apaga o reinicia un servidor de terminales remoto. Si el ordenador correspondiente lo permite, este puede apagarse completamente de esta manera)
+
+	w32tm: (Comando que gestiona el servicio de hora de Windows con el que se sincronizan la fecha y la hora en todos los ordenadores bajo un dominio AD DS)
+
+	waitfor: (Comando que envía o espera a una señal. Si esta no se ha de enviar a todos los ordenadores de un dominio, sino a uno específico, se utiliza el parámetro /S. Este comando permite sincronizar los ordenadores de una misma red entre sí)
+
+	winrm: (Comando que Administra conexiones seguras entre ordenadores locales y remotos a través del protocolo de gestión WS.
+
+	winrs: (Comando que a través de una conexión segura permite acceder a las líneas de comandos de un ordenador remoto y realizar cambios. Para desactivar el cifrado debe recurrirse a –un)
+
+Fin Algoritmo

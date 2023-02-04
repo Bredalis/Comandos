@@ -1,0 +1,56 @@
+
+Inicio Algoritmo
+
+   Ctrl + P: Característica GoToAnything para abrir rápidamente archivos de nuestro proyecto.
+
+   Ctrl + Shift + P: Acceso a Command Palette desde donde se puede cambia la sintáxis, acceder a Package Control, puedes buscar lo que quieras.
+   
+   Ctrl + G: Ir a una línea.
+
+   MANEJAR TEXTO
+
+   Ctrl + L: Seleccionar una línea.
+
+   Ctrl + D: Seleccionar palabra (pulsando varias veces, realiza selección múltiple).
+
+   Ctrl + KK: Elimina desde el cursos hasta el final de la línea.
+
+   Ctrl + Shift + D: Duplica la línea.
+ 
+   Ctrl + /: Insertar comentario.
+
+   HTML Y XML
+
+   Ctrl + Shift + A: Seleccionar el contenido dentro de una etiqueta.
+
+   Ctrl + Shift + .: Cerrar etiqueta.
+
+   Ctrl + 1, 2, 3: De esta forma podrás moverte entre el código que ya tienes abierto y estar viajando entre tus archivos.
+
+   Ctrl + Shift + N: Este comando va a abrir una nueva ventana en nuestro editor.
+
+   Ctrl + P: Esta opción te va a permitir abrir un archivo de tu mismo proyecto, muy útil para moverte sin salir del editor.
+
+   Ctrl + Shift + P: Con esta opción vamos a poder abrir la paleta de comandos, la cual nos va a permitir varias opciones de Sublime text o nuestros plugins.
+
+   Ctrl + KB: Con este comando podremos ver u ocultar la barra lateral en donde tenemos nuestras carpetas y archivos.
+
+   Ctrl + Shift + Enter: Este comando va a dar saltos de línea a partir de nuestro puntero, de esta forma ya no tendríamos que regresar al inicio después de dar enter.
+
+   Ctrl + D: Con esta opción vas a poder seleccionar la palabra en donde se encuentre tu cursor. Si repites el mismo proceso te va a hacer una selección de todas las palabras idénticas.
+
+   Ctrl + Click: Este selección múltiple es muy interesante ya que nos permite tener varios punteros y escribir en varios sitios al mismo tiempo.
+
+   Ctrl + f: Con esta opción podremos hacer búsquedas en el archivo que estemos actualmente, útil cuando nuestro proyecto empieza a ser demasiado grande.
+
+   Ctrl + R: Con esta opción vamos a poder hacer una búsqueda de todas las funciones en nuestro código.
+
+   Ctrl + KL: Este comando transforma el texto que hayamos seleccionado a minúsculas.
+
+   Ctrl + Shift + f: A pesar de que es el mismo comando que utilizamos con la Búsqueda Avanzada, solo hay que cambiar la forma en que se usa y decirle que palabra va a buscar y por cuál la va reemplazar.
+
+   Tab: Más que ser un comando, la tecla tab nos permite indentar el texto que este en nuestra selección.
+
+   Shift + Tab: funciona de forma contraría a tab y hace que el texto que hayamos seleccionado retroceda.
+
+Fin Algoritmo

@@ -1,0 +1,74 @@
+
+Para strftime
+
+%a: nombre abreviado del día de la semana
+
+%A: nombre completo del día de la semana
+
+%b - nombre abreviado del mes
+
+%B: nombre completo del mes
+
+%c - Representación preferida de fecha y hora
+
+%C - número del siglo (el año dividido por 100, rango 00 a 99)
+
+%d - día del mes (01 a 31)
+
+%D: igual que %m/%d/%y
+
+%e - día del mes (1 a 31)
+
+%g - como %G, pero sin el siglo
+
+%G - año de 4 dígitos correspondiente al número de semana ISO (véase %V).
+
+%h - igual que %b
+
+%H - hora, usando un reloj de 24 horas (00 a 23)
+
+%I - hora, usando un reloj de 12 horas (01 a 12)
+
+%j - día del año (001 a 366)
+
+%m - mes (01 a 12)
+
+%M - minuto
+
+%n: carácter de nueva línea
+
+%p - AM o PM según el valor de tiempo dado
+
+%r - tiempo en notación a.m. y p.m.
+
+%R - tiempo en notación de 24 horas
+
+%S - segundo
+
+%t: carácter de tabulación
+
+%T: hora actual, igual a %H:%M:%S
+
+%u - día de la semana como número (1 a 7), lunes=1. Advertencia: En Sun Solaris Sunday=1
+
+%U - número de semana del año en curso, comenzando con el primer domingo como el primer día de la primera semana
+
+%V - El número de semana ISO 8601 del año en curso (01 a 53), donde la semana 1 es la primera semana que tiene al menos 4 días en el año en curso, y con el lunes como el primer día de la semana
+
+%W - número de semana del año en curso, comenzando con el primer lunes como el primer día de la primera semana
+
+%w - día de la semana como decimal, domingo=0
+
+%x: representación de fecha preferida sin la hora
+
+%X: representación de tiempo preferida sin la fecha
+
+%y - año sin siglo (rango 00 a 99)
+
+%Y - año incluido el siglo
+
+%Z o %z: zona horaria o nombre o abreviatura
+
+%%: un carácter % literal
+
+Fin
