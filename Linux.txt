@@ -25,5 +25,39 @@ Comandos para manipular archivos
 Comandos para borrar archivos
 
  rm "Ruta de archivo a borrar" -R (Comando para borrar archivos) 
+
+Informcion de carpetas
+
+ bin (Son los binarios de usuario)
+
+ boot (Ejecutables y archivos requeridos para el arranque)
+
+ dev (Archivos de informacion de todos los volumenes)
+
+ etc (Archivos de configuracion del sistema y de aplicaciones)
+
+ home (Directorio personal con los directorios de usuario)
+
+ lib (Bibliotecas necesarias para la ejecucion de binarios)
+
+ media (Directorio de montaje de volumenesextraibles)
+
+ opt (Archivos de aplicaciones externas que no se integran en /usr)
+
+ proc (Archivos con informacion de procesos)
+
+ root (Directorio personal de superusuario)
+
+ sbin (Binarios de sistemas)
  
+ srv (Archivos relativos a servidores web, ftp, etc)
+
+ sys (Archivos virtuales con informacion del sistema)
+
+ tmp (Archivos temporales)
+
+ usr (Archivos de programas)
+ 
+ var (Archivos de variables)
+
  Fin
