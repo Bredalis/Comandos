@@ -14,6 +14,14 @@ Comandos Básicos para trabajar en la terminal de Linux
 
  ll -a (Comando para ver archivos ocultos)
 
+ ls -l (Comando para mostrar las carpetas en forma de lista)
+
+ ls -lh (Comando para mostrar la medida de los bytes en las carpetas)
+
+ clear, Ctrl l (Comando para limpiar la terminal)
+
+ ./"Nombre de archivo" (Comando para ejecutar archivos)
+
 Comandos para manipular archivos
 
  mkdir "Nombre" (Comando para crear carpetas)
