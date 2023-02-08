@@ -22,17 +22,27 @@ Comandos Básicos para trabajar en la terminal de Linux
 
  ./"Nombre de archivo" (Comando para ejecutar archivos)
 
+ man "Nombre Comando" (Comando para ver el manual de un comando)
+
+ q(Comando para salir de un archivo de lectura)
+
+ cd ~/ (Comando  para ir al archivo Home, más rápido)
+
+ touch "Ruta para ubicar la carpeta" "Nombre para la carpeta" (Comando para crear nuevos archivos)
+
 Comandos para manipular archivos
 
  mkdir "Nombre" (Comando para crear carpetas)
 
  cp "Nombre del archivo a copiar" "Nombre del directorio a donde se va a copiar el archivo" (Comando para copiar archivos)
 
- mv "Nombre del archivo a copiar" "Nombre del directorio a donde se movera el archivo" (Comando para mover un archivo)
+ mv "Nombre del archivo a mover" "Nombre del directorio a donde se movera el archivo" (Comando para mover un archivo)
 
 Comandos para borrar archivos
 
- rm "Ruta de archivo a borrar" -R (Comando para borrar archivos) 
+ rm "Nombre" (Comando para borrar archivos)
+
+ rm "Ruta de carpeta a borrar" -R (Comando para borrar carpetas) 
 
 Informcion de carpetas
 
