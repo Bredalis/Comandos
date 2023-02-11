@@ -31,16 +31,13 @@ Inicio de Algoritmo
 
     git branch -D (nombre_rama) #borrar ramas
 
-    git rm -r (micarpeta) # borrar carpetas
+    git rm -r (carpeta) # borrar carpetas
 
     git clone se usa para copiar un repositorio. Si el repositorio está en un servidor remoto, usa:
 	git clone nombredeusuario@host:/path/to/repository
 
     A la inversa, ejecuta el siguiente comando básico para copiar un repositorio local:
 	git clone /path/to/repository
-
-    git clone se usa para copiar un repositorio. Si el repositorio está en un servidor remoto, usa:
-	git clone nombredeusuario@host:/path/to/repository
 
     git config puede ser usado para establecer una configuración específica de usuario, como el email, nombre de usuario y tipo de formato, etc. Por ejemplo, el siguiente comando se usa para establecer un email:
 	git config --global user.email tuemail@ejemplo.com

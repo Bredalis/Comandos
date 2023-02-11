@@ -29,10 +29,6 @@ Inicio Algoritmo
 
    Ctrl + Shift + N: Este comando va a abrir una nueva ventana en nuestro editor.
 
-   Ctrl + P: Esta opción te va a permitir abrir un archivo de tu mismo proyecto, muy útil para moverte sin salir del editor.
-
-   Ctrl + Shift + P: Con esta opción vamos a poder abrir la paleta de comandos, la cual nos va a permitir varias opciones de Sublime text o nuestros plugins.
-
    Ctrl + KB: Con este comando podremos ver u ocultar la barra lateral en donde tenemos nuestras carpetas y archivos.
 
    Ctrl + Shift + Enter: Este comando va a dar saltos de línea a partir de nuestro puntero, de esta forma ya no tendríamos que regresar al inicio después de dar enter.

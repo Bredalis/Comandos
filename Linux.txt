@@ -58,6 +58,24 @@ Comandos para manipular archivos
 
  nano .bashrc (Comando para crear scripts en la terminal)
 
+Comandos de busqueda
+
+ ls -lh * ."Terminacion" (Comando para buscar archivos mediante terminaciones)
+
+ grep "Carpeta" -e "Texto"(Comando para buscar textos en carpetas)
+
+ grep "Carpeta" -e "Texto" > "Nueva carpeta" (Comando para guardar solo el texto en una nueva carpeta)
+
+# Todos despues del comando grep
+
+# Datos (los comando se dividen por ;)
+
+ -i (Comando que ignora si el texto es mayuscula o no)
+
+ -n (Comando para saber la ubicacion numerica de un texto)
+
+ date (Comando para saber la hora de inicio y final)
+
 Comandos para borrar archivos
 
  rm "Nombre" (Comando para borrar archivos)
@@ -78,7 +96,7 @@ Informcion de carpetas
 
  lib (Bibliotecas necesarias para la ejecucion de binarios)
 
- media (Directorio de montaje de volumenesextraibles)
+ media (Directorio de montaje de volumenes extraibles)
 
  opt (Archivos de aplicaciones externas que no se integran en /usr)
 
