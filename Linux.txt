@@ -36,6 +36,10 @@ Comandos Básicos para trabajar en la terminal de Linux
 
  which "Nombre comando" (Comando para saber la ubicacion de un ejecutable)
 
+ top (Comando para mostrar procesos en tiempo real)
+
+ kill "id de top" (Comando para matar ejecuciones)
+
 Comandos para manipular archivos
 
  mkdir "Nombre" (Comando para crear carpetas)
