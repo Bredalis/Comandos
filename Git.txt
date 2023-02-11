@@ -3,8 +3,6 @@ Inicio de Algoritmo
                                               
     Comandos basicos para entender Git y trabajar con Github
 
-    Comandos De Git
-
     cd (Para usar la carpeta)
 
     ls (Cantidad y visualizacion de carpetas)
