@@ -40,6 +40,16 @@ Comandos Básicos para trabajar en la terminal de Linux
 
  kill "id de top" (Comando para matar ejecuciones)
 
+ curl "URL" (Comando para visualizar datos)
+
+ zip "Nombre" "* .Termincion"(Comando para imprimir archivos)
+
+ unzip -vl "Nombre con terminacion .zip" (Comando para ver el contenido de archivos impresos)
+
+# Para descomprimir archivos primero se remueven las carpetas (Para no reescribirlo)
+
+ unzip "Nombre" (Comando para descomprimir archivos)
+
 Comandos para manipular archivos
 
  mkdir "Nombre" (Comando para crear carpetas)
