@@ -1,7 +1,5 @@
-
-Inicio de Algoritmo
-                                              
-    Comandos basicos para entender Git y trabajar con Github
+                                      
+Comandos basicos para entender Git y trabajar con Github
 
     cd (Para usar la carpeta)
 
@@ -68,4 +66,4 @@ Inicio de Algoritmo
 
     git merge (Nombre de la rama) # Para fucionarla con las demas ramas
 
-Fin Del Algoritmo
+Fin

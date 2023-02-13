@@ -1,4 +1,3 @@
- Inicio
 
 Comandos Básicos para trabajar en la terminal de Linux
 
@@ -126,4 +125,4 @@ Informcion de carpetas
  
  var (Archivos de variables)
 
- Fin
+Fin

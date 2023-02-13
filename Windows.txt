@@ -1,5 +1,5 @@
 
-Inicio de Algoritmo
+Inicio
 
    	dir (Comando para ver todas las carpetas de un directorio)
 
@@ -125,4 +125,4 @@ Comando CMD	Descripción	Versión de Windows
 
 	winrs: (Comando que a través de una conexión segura permite acceder a las líneas de comandos de un ordenador remoto y realizar cambios. Para desactivar el cifrado debe recurrirse a –un)
 
-Fin Algoritmo
+Fin

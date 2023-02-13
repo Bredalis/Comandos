@@ -1,5 +1,5 @@
 
-Inicio Algoritmo
+Inicio
 
    Ctrl + P: Característica GoToAnything para abrir rápidamente archivos de nuestro proyecto.
 
@@ -49,4 +49,4 @@ Inicio Algoritmo
 
    Shift + Tab: funciona de forma contraría a tab y hace que el texto que hayamos seleccionado retroceda.
 
-Fin Algoritmo
+Fin
