@@ -91,6 +91,16 @@ Comandos para borrar archivos
 
  rm "Ruta de carpeta a borrar" -R (Comando para borrar carpetas) 
 
+# Permisos, dato importante rwx(Personal)rwx(Grupo)rwx(Nadie)
+# Significados r = leer, w = escribir, x = ejecucion
+# Valores r = 4, w = 2, x = 1, - = 0, la suma es 7
+
+ chomand 777 "Archivo" (Comando para cambiar y asignar permisos)  
+
+ sudo cat "Archivo" (Comando para entrar a archivos sin permiso)
+
+ cat "Archivo" | "Comandos" (Comando utilizado para manipular outputs de los archivos)
+
 Informcion de carpetas
 
  bin (Son los binarios de usuario)
