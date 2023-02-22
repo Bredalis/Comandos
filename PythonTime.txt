@@ -1,5 +1,5 @@
 
-Para strftime
+Para Time
 
 %a: nombre abreviado del día de la semana
 
