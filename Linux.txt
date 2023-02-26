@@ -41,7 +41,7 @@ Comandos Básicos para trabajar en la terminal de Linux
 
  curl "URL" (Comando para visualizar datos)
 
- zip "Nombre" "* .Termincion"(Comando para imprimir archivos)
+ zip "Nombre" "*" .Termincion"(Comando para imprimir archivos)
 
  unzip -vl "Nombre con terminacion .zip" (Comando para ver el contenido de archivos impresos)
 
