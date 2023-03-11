@@ -1,0 +1,8 @@
+
+Formulas para modelos en Scikit-Learn
+
+Regresion Lineal = (Y = B0 + B1X), (Y = B0 + B1X1 + ... + BK + BK)
+
+Regresion Lineal con Matrices = (Y = XB)
+
+Regresion Logistica = (1/ 1 + c -Y)

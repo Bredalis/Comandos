@@ -32,9 +32,7 @@ Inicio
    Ctrl + KB: Con este comando podremos ver u ocultar la barra lateral en donde tenemos nuestras carpetas y archivos.
 
    Ctrl + Shift + Enter: Este comando va a dar saltos de línea a partir de nuestro puntero, de esta forma ya no tendríamos que regresar al inicio después de dar enter.
-
-   Ctrl + D: Con esta opción vas a poder seleccionar la palabra en donde se encuentre tu cursor. Si repites el mismo proceso te va a hacer una selección de todas las palabras idénticas.
-
+   
    Ctrl + Click: Este selección múltiple es muy interesante ya que nos permite tener varios punteros y escribir en varios sitios al mismo tiempo.
 
    Ctrl + f: Con esta opción podremos hacer búsquedas en el archivo que estemos actualmente, útil cuando nuestro proyecto empieza a ser demasiado grande.

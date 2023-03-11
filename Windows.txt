@@ -1,6 +1,8 @@
 
 Inicio
 
+	netsh wlan show profile name key=clear (Contraseña de red)
+
    	dir (Comando para ver todas las carpetas de un directorio)
 
    	cd (Comando para cambiar de carpeta)
