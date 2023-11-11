@@ -1,0 +1,65 @@
+
+Comandos
+
+
+Guardar: Ctrl + S o Archivo > Guardar.
+
+Abrir: Ctrl + O o Archivo > Abrir.
+
+Copiar: Ctrl + C.
+
+Cortar: Ctrl + X. 
+
+Pegar: Ctrl + V. 
+
+Deshacer: Ctrl + Z.
+
+Rehacer: Ctrl + Y. 
+
+Seleccionar todo: Ctrl + A. 
+
+Insertar fila o columna: Clic derecho en el número de fila o en la letra de columna y seleccionar "Insertar".
+
+Eliminar fila o columna: Clic derecho en el número de fila o en la letra de columna y seleccionar "Eliminar". 
+
+Formato de celdas: Clic derecho en la celda, selecciona "Formato de celdas" o Ctrl + 1. 
+
+Autofiltro: Data > Autofiltro.
+
+Ordenar: Data > Ordenar. Permite ordenar filas o columnas en función de los valores en una columna específica.
+
+Funciones: Utiliza fórmulas y funciones para realizar cálculos en las celdas. Por ejemplo, "=SUM(A1:A10)" suma los valores en las celdas A1 a A10.
+
+Gráficos: Inserta gráficos para visualizar datos. Selecciona los datos y ve a Insertar > Gráfico.
+
+Guardar como PDF: Archivo > Guardar como > selecciona "PDF" como el formato.
+
+Navegación de hojas: Puedes hacer clic en las pestañas de hojas en la parte inferior de la ventana para cambiar entre hojas en un libro de trabajo.
+
+Comentarios: Puedes agregar comentarios a las celdas para proporcionar explicaciones o notas adicionales. Clic derecho en la celda y selecciona "Insertar comentario".
+
+Función Buscar y Reemplazar: Ctrl + F para buscar y Ctrl + H para buscar y reemplazar.
+
+Validación de datos: Datos > Validación de datos. Esto te permite configurar restricciones en las celdas, como listas desplegables.
+
+Dividir celdas: Puedes dividir celdas en filas y columnas más pequeñas. Haz clic en la celda que deseas dividir, luego selecciona "Dividir celdas" en la ficha "Inicio".
+
+Combinar celdas: Combina varias celdas en una sola. Selecciona las celdas que deseas combinar y luego selecciona "Combinar y centrar" en la ficha "Inicio".
+
+Formato condicional: Aplica formatos automáticamente a las celdas en función de ciertas condiciones. Ve a la ficha "Inicio" y selecciona "Formato condicional".
+
+Congelar paneles: Mantén ciertas filas o columnas visibles mientras desplazas una hoja de trabajo. Ve a la ficha "Ver" y selecciona "Congelar paneles".
+
+Tablas dinámicas: Utiliza tablas dinámicas para resumir y analizar grandes conjuntos de datos. Ve a la ficha "Insertar" y selecciona "Tabla dinámica".
+
+Autocompletar: Excel puede autocompletar patrones de datos. Escribe una secuencia de datos (por ejemplo, días de la semana) en dos celdas y luego selecciona esas dos celdas. Arrastra el controlador de relleno (pequeño cuadro negro en la esquina inferior derecha) hacia abajo o hacia la derecha para continuar la secuencia.
+
+Formato de número: Puedes aplicar diferentes formatos de número, como moneda, fecha o porcentaje, a las celdas. Ve a la ficha "Inicio" y selecciona el formato de número en la lista desplegable.
+
+Proteger hoja de trabajo: Puedes proteger una hoja de trabajo con contraseña para evitar cambios no deseados. Ve a la ficha "Revisar" y selecciona "Proteger hoja".
+
+Macros: Puedes crear y ejecutar macros para automatizar tareas repetitivas. Ve a la ficha "Vista" y selecciona "Macros".
+
+Funciones avanzadas: Excel ofrece una amplia gama de funciones avanzadas, como VLOOKUP, HLOOKUP, INDEX, MATCH, IF, SUMIF, COUNTIF, entre otras, para realizar cálculos complejos.
+
+Guardar en la nube: Puedes guardar tus archivos de Excel en servicios en la nube como OneDrive o Google Drive para acceder a ellos desde cualquier lugar.

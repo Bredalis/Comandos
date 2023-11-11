@@ -1,0 +1,218 @@
+
+
+Comandos basicos
+
+
+Dir: Muestra el contenido del directorio actual.
+
+Cd: Cambia el directorio actual a la ubicación especificada 
+	o volver a la carpeta anterior
+
+	cd ..
+	cd NombreDelArchivo
+
+Mkdir o md: Crea un nuevo directorio.
+
+	mkdir NombreDelDirectorio
+	md NombreDelDirectorio
+
+Rmdir o rm: Elimina un directorio vacío.
+
+	rmdir NombreDelDirectorio
+	rm NombreDelDirectorio
+
+Copy: Copia archivos o directorios.
+
+Move: Mueve archivos o directorios.
+
+	move Origen Destino
+
+Ren: Cambia el nombre de un archivo o directorio.
+
+	ren NombreAntiguo NombreNuevo
+
+Del: Elimina un archivo.
+
+	del NombreDelArchivo
+
+Tasklist: Muestra una lista de procesos en ejecución.
+
+	tasklist
+
+Taskkill: Termina un proceso en ejecución por su nombre o número de proceso.
+
+	taskkill /F /IM NombreDelProceso.exe
+
+Ipconfig: Muestra información de configuración de red, incluyendo direcciones IP.
+
+	ipconfig
+
+Ping: Envía paquetes ICMP a una dirección IP para verificar la conectividad de red.
+
+	ping DirecciónIP
+
+Systeminfo: Muestra información detallada del sistema.
+
+	systeminfo
+
+Notepad: Abre el Bloc de notas.
+
+Control: Abre el Panel de control.
+
+	control
+
+Shutdown: Apaga o reinicia la computadora.
+
+	shutdown /s /t 0   # Apagar
+	shutdown /r /t 0   # Reiniciar
+
+Sfc: Escanea y repara archivos del sistema dañados.
+
+	sfc /scannow
+
+Chkdsk: Verifica y repara errores en un disco duro.
+
+	chkdsk /f C:   # Donde "C" es la unidad a verificar
+
+Regedit: Abre el Editor del Registro de Windows.
+
+	regedit
+
+Cls: para limpiar la terminal.
+
+	cls
+
+Start: para abrir otra terminal o abrir un software:
+
+	start
+
+	start nombre del programa
+
+Comando /?: para decir la ayuda de dicho comando:
+	
+	color /?
+
+Title: para cambiar el titulo:
+
+	title "Titulo"
+
+Tree: muestra la estructura de las carpetas de la pc:
+
+	tree
+
+Xcopy: es un comando de copia en la línea de comandos 
+       de Windows que se utiliza para copiar archivos y 
+       directorios de un lugar a otro.
+
+    xcopy origen destino [opciones]
+
+Copy: es un comando de la línea de comandos de Windows que 
+      se utiliza para copiar un archivo específico desde un 
+      origen a un destino.
+
+    copy origen destino
+
+Rename: es para cambiar el nombre de la carpeta:
+
+	rename "NombreDelDirectorio" "NombreNuevoDelDirectorio"
+	
+Robocopy: es una herramienta avanzada de copia de archivos y 
+		  directorios en la línea de comandos de Windows que ofrece más funcionalidades y opciones que xcopy.
+	
+	robocopy origen destino [archivos...] [opciones]
+
+Echo: se usa para imprimir texto en pantalla
+
+	echo "Algun texto"
+
+Type: para leer un archivo de texto:
+
+	type Texto.txt
+
+>: se usa para agregar textos a los archivos:
+	
+	echo "Ejemplo" > Texto.txt
+	echo "Ejemplo" >> Texto.txt
+
+Del: se usa para borrar directorios:
+
+	del texto.txt
+	erase texto.txt
+
+More: se usa para mostrar archivos de altos contenidos:
+	
+	more NombreDelDirectorio
+
+Attrib: se usa para modificar los atributos de los directorios:
+
+	Lectura
+
+	attrib +R texto.txt 
+	attrib -R texto.txt 
+
+	Ocultar
+
+	attrib +H texto.txt
+	attrib +H texto.txt /S
+	attrib -H texto.txt
+	
+Tasklist: dice los programas que se estan ejecutando:
+
+	tasklist
+
+Taskkill: para detener procesos:
+	
+	taskkill /IM NombreDeLaApp
+
+Date: muestra la fecha:
+
+	date
+	date /t
+
+Time: comando para la hora:
+
+	time
+	time /t
+
+Ver: para saber las versiones de la pc:
+
+	ver
+
+Whoami: para ver que usuario esta en la terminal:
+
+	whoami
+
+Systeminfo: para ver la informacion de la pc:
+
+	systeminfo 
+	systeminfo /s [host_name] /u [domain]\[user_name] /p [user_password]
+
+Shutdown: para manipular el equipo:
+
+	shutdown /?
+	shutdowm -s -t tiempo
+
+Ipconfig: es un comando de redes:
+
+	ipconfig
+
+Ping: para obtener los ip:
+
+	ping NombreDelDominio
+
+Tracert: se usa para saber la ruta por la que pasa el dominio
+
+	tracert NombreDelDominio
+
+Netstat: para ver los estados de la red
+
+	netstat
+
+Netsh: para ver contraseñas wifi:
+
+	netsh wlan show profile
+	netsh wlan show profile "NombreDeLaRed" key=clear
+
+Driverquery: para ver todos los controladores que tiene la pc
+
+	driverquery

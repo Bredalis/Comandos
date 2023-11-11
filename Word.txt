@@ -1,0 +1,53 @@
+
+Comandos
+
+
+Guardar: Ctrl + S o Archivo > Guardar.
+
+Guardar como: Archivo > Guardar como.
+
+Abrir: Ctrl + O o Archivo > Abrir. 
+
+Copiar: Ctrl + C. 
+
+Cortar: Ctrl + X.
+
+Pegar: Ctrl + V. 
+
+Deshacer: Ctrl + Z.
+
+Rehacer: Ctrl + Y.
+
+Seleccionar todo: Ctrl + A. 
+
+Negrita: Ctrl + B o Formato > Negrita. 
+
+Cursiva: Ctrl + I o Formato > Cursiva. 
+
+Subrayado: Ctrl + U o Formato > Subrayado. 
+
+Tamaño de fuente: Cambia el tamaño de fuente seleccionando un valor de la lista desplegable en la barra de herramientas.
+
+Color de fuente: Cambia el color de fuente seleccionando un color en la barra de herramientas.
+
+Estilo de párrafo: Cambia el estilo de párrafo, como la alineación, la sangría y el espaciado, desde la barra de herramientas.
+
+Listas con viñetas o numeradas: Crea listas con viñetas o numeradas seleccionando el texto y haciendo clic en los botones correspondientes en la barra de herramientas.
+
+Insertar imágenes: Inserta imágenes o gráficos en el documento seleccionando Insertar > Imagen.
+
+Insertar hipervínculos: Crea hipervínculos a sitios web o páginas internas seleccionando Insertar > Hipervínculo.
+
+Encabezado y pie de página: Agrega encabezados y pies de página en la ficha "Insertar" para incluir información en la parte superior o inferior de cada página.
+
+Tabla de contenidos: Crea una tabla de contenidos automáticamente seleccionando Referencias > Tabla de contenidos.
+
+Guardar como PDF: Archivo > Guardar como > selecciona "PDF" como el formato.
+
+Comentarios: Inserta comentarios en el documento para proporcionar comentarios o revisiones. Selecciona Revisar > Nuevo comentario.
+
+Seguimiento de cambios: Activa o desactiva el seguimiento de cambios para realizar revisiones colaborativas. Selecciona Revisar > Control de cambios.
+
+Impresión: Ctrl + P o Archivo > Imprimir.
+
+Corrección ortográfica y gramatical: Selecciona Revisar > Ortografía y gramática para revisar y corregir errores.
