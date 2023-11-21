@@ -75,3 +75,15 @@ Ctrl + Shift + S: Abre el explorador de archivos para guardar el archivo actual.
 Ctrl + Shift + T: Permite abrir las últimas pestañas que hemos ido cerrando por orden.
 
 F11: Activa/desactiva la pantalla completa.
+
+
+Google COLAB
+
+
+Seleccionar archivos para cargar:
+
+	from google.colab import files
+	uploaded = files.upload()
+
+Clonar los directorios de GitHub:
+	!git clone repositorio_url.git
