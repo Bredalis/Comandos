@@ -1,0 +1,44 @@
+
+
+Comandos
+
+
+git init: Inicializa un nuevo repositorio Git en un directorio local
+
+git clone <url>: Clona un repositorio remoto existente en tu directorio local
+
+git status: Muestra el estado actual de los archivos en el repositorio
+
+git add <archivo>: Agrega cambios de archivos específicos al área de preparación
+
+git commit -m "Mensaje": Confirma los cambios en el repositorio con un mensaje descriptivo
+
+git push <remoto> <rama>: Envía los cambios locales a un repositorio remoto en una rama específica
+
+git pull <remoto> <rama>: Obtiene y fusiona los cambios desde un repositorio remoto a tu repositorio local
+
+git branch: Lista todas las ramas en el repositorio local
+
+git checkout <rama>: Cambia a una rama específica
+
+git merge <rama>: Fusiona los cambios de una rama específica a la rama actual
+
+git log: Muestra el historial de confirmaciones
+
+git diff: Muestra las diferencias entre los cambios en los archivos
+
+git stash: Guarda temporalmente cambios locales sin confirmar
+
+git remote -v: Muestra los repositorios remotos configurados
+
+git reset HEAD <archivo>: Quita un archivo del área de preparación
+
+git rm <archivo>: Elimina un archivo del repositorio
+
+git tag <nombre>: Etiqueta un commit específico con un nombre
+
+git revert <commit>: Deshace un commit específico creando un nuevo commit
+
+git fetch: Descarga cambios del repositorio remoto sin fusionarlos con tu rama actual
+
+git config: Configura opciones de Git como nombre de usuario, email, etc
