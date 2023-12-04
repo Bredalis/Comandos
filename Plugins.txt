@@ -63,7 +63,7 @@ Editar rutas predeterminadas: Ctrl + Alt + V
 Crear un nuevo archivo con un texto predeterminado: Ctrl + Alt + X
 
 
-### DocBlockr:
+DocBlockr:
 
 
 Creación de documentación: / y presionar Tab
@@ -87,7 +87,7 @@ Comentar un bloque de código: Ctrl + Alt + C
 Expandir el bloque de comentario: Ctrl + Enter
 
 
-### DocBlockr Python:
+DocBlockr Python:
 
 
 Creación de documentación: Utiliza """ para comentarios multilinea y # para comentarios de línea
@@ -101,7 +101,7 @@ Actualizar comentarios de funciones/métodos: """ y Enter justo antes de la defi
 Documentar parámetros y retornos: Inserta """ y Enter después de la definición de una función/método
 
 
-### SublimeLinter:
+SublimeLinter:
 
 
 Ver errores en tiempo real: Muestra errores subrayados en rojo o amarillo al escribir

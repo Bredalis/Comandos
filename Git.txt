@@ -13,9 +13,9 @@ git add <archivo>: Agrega cambios de archivos específicos al área de preparaci
 
 git commit -m "Mensaje": Confirma los cambios en el repositorio con un mensaje descriptivo
 
-git push <remoto> <rama>: Envía los cambios locales a un repositorio remoto en una rama específica
+git push <repositorio remoto> <rama>: Envía los cambios locales a un repositorio remoto en una rama específica
 
-git pull <remoto> <rama>: Obtiene y fusiona los cambios desde un repositorio remoto a tu repositorio local
+git pull <repositorio remoto> <rama>: Obtiene y fusiona los cambios desde un repositorio remoto a tu repositorio local
 
 git branch: Lista todas las ramas en el repositorio local
 
@@ -39,6 +39,8 @@ git tag <nombre>: Etiqueta un commit específico con un nombre
 
 git revert <commit>: Deshace un commit específico creando un nuevo commit
 
-git fetch: Descarga cambios del repositorio remoto sin fusionarlos con tu rama actual
+git fetch <repositorio remoto>: Descarga cambios del repositorio remoto sin fusionarlos con tu rama actual
 
-git config: Configura opciones de Git como nombre de usuario, email, etc
+git config --global user.email "correo": para configurar tu correro electronico
+ 
+git config --global user.name "Tu nombre": para configurar tu nombre como usuario

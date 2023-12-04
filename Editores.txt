@@ -32,7 +32,7 @@ Ctrl + B: Abriremos o cerraremos el menú lateral izquierdo.
 
 Alt + Z: En caso de que nuestro código sea más extenso que la anchura de la pantalla, este atajo nos permite romper la línea y así utiliza únicamente el ancho de nuestra pantalla.
 
-Alt + Enter: En el momento se ha realizado dicha búsqueda, podemos utilizar este atajo para seleccionar todos los elementos que se encuentren.
+Alt + Enter: En el momento que se ha realizado dicha búsqueda, podemos utilizar este atajo para seleccionar todos los elementos que se encuentren.
 
 Ctrl + N: Nos permite dividir el editor para así tener varios archivos abiertos y poder comparar. N es el numero por el cual se hará la división de pestañas.
 
@@ -80,10 +80,21 @@ F11: Activa/desactiva la pantalla completa.
 Google COLAB
 
 
-Seleccionar archivos para cargar:
+Importar libreria de google colab:
 
 	from google.colab import files
+
+Seleccionar archivos para cargar:
+
 	uploaded = files.upload()
+
+Descargar arhivos:
+	
+	files.download("Nombre del archivo")
 
 Clonar los directorios de GitHub:
 	!git clone repositorio_url.git
+
+Visualizar datos graficos:
+
+	files.view('imagen.jpg')

@@ -48,19 +48,9 @@ Clausulas: FROM, WHERE, GROUP BY, HAVING, ORDER BY
 
 Pasos para trabajar en sqlite3
 
-1 - cd URL
-
-2 - sqlite3 Nombre del archivo.db
-
-3 - .databases
-
 
 Elaboracion de tablas
 
-
-Para obtener la lista de tablas
-
-	SELECT name FROM sqlite_master WHERE type='table';
 
 Para crear tablas y crear un id unico y autoincrementable:
 
@@ -181,30 +171,3 @@ Operador Like:
 	//Letras en medio
 
 	SELECT * FROM Tabla WHERE Columna Like "%Letra%";
-
-Eliminar todos los registros de una tabla:
-
-	TRUNCATE TABLE tabla;
-
-Otorgar permisos (SELECT y INSERT):
-
-	GRANT SELECT, INSERT ON tabla TO nombre de usuario;
-
-Revocar los permisos (SELECT):
-
-	REVOKE SELECT ON tabla FROM nombre de usuario;
-
-Deshacer todos los cambios de transaccion:
-
-	ROLLBACK;
-
-Ejemplos de SAVEPONIT y HAVING:
-
-	SAVEPOINT mi_punto_de_guardado;
-	-- Realizar algunas operaciones
-	ROLLBACK TO mi_punto_de_guardado;
-
-	SELECT columna, SUM(columna2) AS total_ventas
-	FROM tabla
-	GROUP BY columna
-	HAVING total_ventas > 1000;
