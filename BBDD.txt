@@ -106,6 +106,10 @@ FOREIGN KEY:
 
 	CREATE TABLE Tabla("ID" INTEGER PRIMARY KEY, "Columna2" TEXT, "columna" INTEGER, FOREIGN KEY ("columna2") REFERENCES Tabla2("ID"));
 
+Crear FOREIGN KEY:
+
+	ALTER TABLE Tabla FOREIGN KEY(id para poner llave foranea) Otra_tabla(id de esta tabla)
+
 Renombrar nombre de la tabla:
 
 	ALTER TABLE Tabla RENAME TO Nombre Nuevo;
