@@ -1,2 +1,2 @@
-# Comandos
-💻 Serie de comandos
+# Commands
+💻 Command series
