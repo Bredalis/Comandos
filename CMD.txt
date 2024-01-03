@@ -22,10 +22,9 @@ Mkdir o md: Crea un nuevo directorio.
 	mkdir NombreDelDirectorio
 	md NombreDelDirectorio
 
-Rmdir o rm: Elimina un directorio vacío.
+Rmdir: Elimina un directorio vacío.
 
 	rmdir NombreDelDirectorio
-	rm NombreDelDirectorio
 
 Copy: Copia archivos o directorios:
 	copy origen destino
@@ -34,9 +33,11 @@ Move: Mueve archivos o directorios.
 
 	move Origen Destino
 
-Ren: Cambia el nombre de un archivo o directorio.
+Ren o Rename: Cambia el nombre de un archivo o directorio.
 
 	ren NombreAntiguo NombreNuevo
+
+	rename "NombreDelDirectorio" "NombreNuevoDelDirectorio"
 
 Del: Elimina un archivo.
 
@@ -104,10 +105,6 @@ Title: para cambiar el titulo:
 Tree: muestra la estructura de las carpetas de la pc:
 
 	tree
-
-Rename: es para cambiar el nombre de la carpeta:
-
-	rename "NombreDelDirectorio" "NombreNuevoDelDirectorio"
 
 Echo: se usa para imprimir texto en pantalla
 

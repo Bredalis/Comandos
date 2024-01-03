@@ -43,6 +43,6 @@ git revert <commit>: Deshace un commit específico creando un nuevo commit
 
 git fetch <repositorio remoto>: Descarga cambios del repositorio remoto sin fusionarlos con tu rama actual
 
-git config --global user.email "correo": para configurar tu correro electronico
+git config --global user.email <correo>: para configurar tu correro electronico
  
-git config --global user.name "Tu nombre": para configurar tu nombre como usuario
+git config --global user.name <Tu nombre>: para configurar tu nombre como usuario

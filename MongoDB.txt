@@ -59,7 +59,7 @@ Operadores Relacionales:
 		db.NombreDeLaColeccion.find({NombreDelCampo: {$nin:["Valor que no queremos buscar", "Valor que no queremos buscar"]}})
 
 	Operador in:
-		db.NombreDeLaColeccion.find({NombreDelCampo: {$in: "Valor que esta donde queremos buscar"}})
+		db.NombreDeLaColeccion.find({NombreDelCampo: {$in: ["Valor que esta donde queremos buscar"]}})
 
 Operadores Logicos:
 
@@ -86,7 +86,7 @@ Actualizar un documento:
 
 Actualizar varios documentos:
 
-	db.NombreDeLaColeccion.updateMany({NombreDelCampo: {$gte: "Valor"}}, {$set: {CualquierCampo: "Nuevo valor", CualquierCampo: "Nuevo valor"}})
+	db.NombreDeLaColeccion.updateMany({NombreDelCampo: {$gt: "Valor"}}, {$set: {CualquierCampo: "Nuevo valor", CualquierCampo: "Nuevo valor"}})
 
 Mostrar datos:
 

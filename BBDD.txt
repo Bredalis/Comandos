@@ -117,8 +117,7 @@ Renombrar nombre de la tabla:
 Unir tablas:
 
 	SELECT tabla.columna, tabla2.columna, tabla2.columna2
-	FROM tabla
-	JOIN tabla2 ON tabla.id = tabla.columna3;
+	FROM tabla JOIN tabla2 ON tabla.id = tabla.columna3;
 
 Agrupar elementos:
 

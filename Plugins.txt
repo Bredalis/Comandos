@@ -40,58 +40,8 @@ link:css: para crear la etiqueta de enlace al archivo CSS
 link:favicon: para crear la etiqueta de poner icono
 
 
-AdvancedNewFile:
-
-
-Crear un archivo: Ctrl + Alt + N
-
-Crear una carpeta: Ctrl + Shift + Alt + N
-
-Copiar ruta del archivo: Ctrl + Alt + C
-
-Mover archivo o carpeta: Ctrl + Alt + M
-
-Eliminar archivo o carpeta: Ctrl + Alt + D
-
-Abrir ruta de archivo en el explorador de archivos: Ctrl + Alt + R
-
-Abrir ruta del archivo en la terminal: Ctrl + Alt + T
-
-Abrir ruta del archivo en el editor de texto (block de notas): Ctrl + Alt + E
-
-Editar rutas predeterminadas: Ctrl + Alt + V
-
-Crear un nuevo archivo con un texto predeterminado: Ctrl + Alt + X
-
-
-DocBlockr:
-
-
-Creación de documentación: / y presionar Tab
-
-Comentar una línea de código: Ctrl + Shift + /
-
-Documentar una función: / seguido de Enter sobre la declaración de la función
-
-Actualizar la documentación de una función: Ctrl + Enter
-
-Comentar varias líneas de código: Ctrl + Shift + Alt + /
-
-Alternar comentarios: Ctrl + /
-
-Descomentar líneas de código: Ctrl + Shift + A 
-
-Reformatear bloques de comentario: Ctrl + Alt + B
-
-Comentar un bloque de código: Ctrl + Alt + C 
-
-Expandir el bloque de comentario: Ctrl + Enter
-
-
 DocBlockr Python:
 
-
-Creación de documentación: Utiliza """ para comentarios multilinea y # para comentarios de línea
 
 Generar documentación: Escribe """ y presiona Enter para crear una estructura de documentación básica
 
@@ -100,17 +50,3 @@ Comentar una línea: Ctrl + /
 Actualizar comentarios de funciones/métodos: """ y Enter justo antes de la definición de la función/método
 
 Documentar parámetros y retornos: Inserta """ y Enter después de la definición de una función/método
-
-
-SublimeLinter:
-
-
-Ver errores en tiempo real: Muestra errores subrayados en rojo o amarillo al escribir
-
-Mostrar errores en la barra lateral: Muestra un icono de advertencia o error en la barra lateral, indicando problemas en el código
-
-Navegar a errores: Puedes saltar a los errores con F4 o Shift + F4
-
-Mostrar detalles de errores: Mantén presionado Ctrl o Cmd y pasa el cursor sobre el error para ver más detalles
-
-Activar/desactivar linters: Puedes habilitar o deshabilitar linters específicos dependiendo de tus necesidades
