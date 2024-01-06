@@ -98,3 +98,7 @@ Clonar los directorios de GitHub:
 Visualizar datos graficos:
 
 	files.view('imagen.jpg')
+
+Trabajar con html:
+
+	%%html
