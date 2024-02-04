@@ -30,11 +30,14 @@ Ctrl + –: Reduciremos el tamaño de la letra.
 
 Ctrl + B: Abriremos o cerraremos el menú lateral izquierdo.
 
-Alt + Z: En caso de que nuestro código sea más extenso que la anchura de la pantalla, este atajo nos permite romper la línea y así utiliza únicamente el ancho de nuestra pantalla.
+Alt + Z: En caso de que nuestro código sea más extenso que la anchura de la pantalla, este atajo nos permite romper 
+la línea y así utiliza únicamente el ancho de nuestra pantalla.
 
-Alt + Enter: En el momento que se ha realizado dicha búsqueda, podemos utilizar este atajo para seleccionar todos los elementos que se encuentren.
+Alt + Enter: En el momento que se ha realizado dicha búsqueda, podemos utilizar este atajo para seleccionar todos los 
+elementos que se encuentren.
 
-Ctrl + N: Nos permite dividir el editor para así tener varios archivos abiertos y poder comparar. N es el numero por el cual se hará la división de pestañas.
+Ctrl + N: Nos permite dividir el editor para así tener varios archivos abiertos y poder comparar. N es el numero por el 
+cual se hará la división de pestañas.
 
 html:5 + Tab: para crear la esctructura basica de HTML.
 
@@ -42,13 +45,15 @@ html:5 + Tab: para crear la esctructura basica de HTML.
 Ambos
 
 
-Ctrl + Shift + P: Acceso a Command Palette desde donde se puede cambia la sintáxis, acceder a Package Control, puedes buscar lo que quieras.
+Ctrl + Shift + P: Acceso a Command Palette desde donde se puede cambia la sintáxis, acceder a Package Control, puedes buscar 
+lo que quieras.
 
 Ctrl + G: Ir a una línea.
 
 Ctrl + Shift + W: Cierra la ventana actual.
 
-Ctrl + f: Con esta opción podremos hacer búsquedas en el archivo que estemos actualmente, útil cuando nuestro proyecto empieza a ser demasiado grande.
+Ctrl + f: Con esta opción podremos hacer búsquedas en el archivo que estemos actualmente, útil cuando nuestro proyecto empieza a 
+ser demasiado grande.
 
 Ctrl + L: Seleccionar una línea.
 
@@ -56,9 +61,11 @@ Ctrl + D: Seleccionar palabra (pulsando varias veces, realiza selección múltip
 
 Ctrl + Shift + N: Este comando va a abrir una nueva ventana en nuestro editor.
 
-Ctrl + Shift + Enter: Este comando va a dar saltos de línea a partir de nuestro puntero, de esta forma ya no tendríamos que regresar al inicio después de dar enter.
+Ctrl + Shift + Enter: Este comando va a dar saltos de línea a partir de nuestro puntero, de esta forma ya no tendríamos que regresar 
+al inicio después de dar enter.
 
-Ctrl + Shift + f: A pesar de que es el mismo comando que utilizamos con la Búsqueda Avanzada, solo hay que cambiar la forma en que se usa y decirle que palabra va a buscar y por cuál la va reemplazar.
+Ctrl + Shift + f: A pesar de que es el mismo comando que utilizamos con la Búsqueda Avanzada, solo hay que cambiar la forma en que 
+se usa y decirle que palabra va a buscar y por cuál la va reemplazar.
 
 Tab: Más que ser un comando, la tecla tab nos permite indentar el texto que este en nuestra selección.
 

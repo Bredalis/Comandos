@@ -38,15 +38,3 @@ section.NombreDeLaClase#NombreDelID: para crear un id y una clase dentro de una 
 link:css: para crear la etiqueta de enlace al archivo CSS
 
 link:favicon: para crear la etiqueta de poner icono
-
-
-DocBlockr Python:
-
-
-Generar documentación: Escribe """ y presiona Enter para crear una estructura de documentación básica
-
-Comentar una línea: Ctrl + /
-
-Actualizar comentarios de funciones/métodos: """ y Enter justo antes de la definición de la función/método
-
-Documentar parámetros y retornos: Inserta """ y Enter después de la definición de una función/método

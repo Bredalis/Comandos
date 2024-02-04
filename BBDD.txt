@@ -10,16 +10,24 @@ GRANT: se utiliza para otorgar permisos o derechos de acceso a objetos de la bas
 como tablas, vistas o procedimientos almacenados, a usuarios o roles específicos
 
 
-REVOKE: se utiliza para retirar los permisos previamente otorgados mediante la instrucción "GRANT". Permite restringir o eliminar los derechos de acceso a objetos de la base de datos de usuarios o roles específicos
+REVOKE: se utiliza para retirar los permisos previamente otorgados mediante la instrucción "GRANT". 
+Permite restringir o eliminar los derechos de acceso a objetos de la base de datos de usuarios o roles específicos
 
 
-ROLLBACK: se utiliza en el contexto de transacciones. Cuando se inicia una transacción y ocurre un error o se desea deshacer una serie de cambios realizados en la base de datos durante la transacción, se puede utilizar "ROLLBACK" para restaurar la base de datos a su estado anterior a la transacción
+ROLLBACK: se utiliza en el contexto de transacciones. Cuando se inicia una transacción y ocurre un error o se desea 
+deshacer una serie de cambios realizados en la base de datos durante la transacción, se puede utilizar "ROLLBACK" para 
+restaurar la base de datos a su estado anterior a la transacción
 
 
-SAVEPOINT: se utiliza para crear un punto de guardado dentro de una transacción. Esto permite deshacer solo una parte de una transacción en lugar de revertir toda la transacción. Los puntos de guardado se utilizan para dividir una transacción en partes más pequeñas y manejar errores de manera más granular
+SAVEPOINT: se utiliza para crear un punto de guardado dentro de una transacción. Esto permite deshacer solo una parte 
+de una transacción en lugar de revertir toda la transacción. Los puntos de guardado se utilizan para dividir una transacción 
+en partes más pequeñas y manejar errores de manera más granular
 
 
-HAVING: es una cláusula que se utiliza en SQL con la instrucción "SELECT" cuando se realizan consultas que involucran agregación, como "GROUP BY". Permite filtrar los resultados de la consulta después de aplicar funciones de agregación como SUM, COUNT o AVG. La cláusula "HAVING" se utiliza para especificar una condición que debe cumplirse para que una fila se incluya en los resultados finales después de la agrupación y agregación
+HAVING: es una cláusula que se utiliza en SQL con la instrucción "SELECT" cuando se realizan consultas que involucran agregación, 
+como "GROUP BY". Permite filtrar los resultados de la consulta después de aplicar funciones de agregación como SUM, COUNT o AVG. 
+La cláusula "HAVING" se utiliza para especificar una condición que debe cumplirse para que una fila se incluya en los resultados 
+finales después de la agrupación y agregación
 
 
 Comandos de SQLITE3  y SQL
@@ -31,7 +39,8 @@ DDL: crear y modificar la estructura de la base de datos
 
 Comandos: CREATE, ALTER, DROP, TRUNCATE
 
-DML: selecciona regristros de una base de datos, para insertar nuevos regristros, actualizar, borrar, para hacer consultas de seleccion y de accion
+DML: selecciona regristros de una base de datos, para insertar nuevos regristros, actualizar, borrar, para hacer consultas de 
+seleccion y de accion
 
 Comandos: SELECT, INSERT, UPDATE, DELETE
 
@@ -108,7 +117,7 @@ FOREIGN KEY:
 
 Crear FOREIGN KEY:
 
-	ALTER TABLE Tabla FOREIGN KEY(id para poner llave foranea) Otra_tabla(id de esta tabla)
+	ALTER TABLE Tabla ADD FOREIGN KEY(id de esta tabla) REFERENCES Tabla_2(id de esta tabla)
 
 Renombrar nombre de la tabla:
 
