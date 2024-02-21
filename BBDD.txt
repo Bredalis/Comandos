@@ -99,6 +99,10 @@ Para borrar:
 	
 	DELETE FROM Tabla WHERE Columna = Valor;
 
+Para borrar BBDD:
+
+	DROP DATABASES BBDD:
+
 Funciones:
 
 	SELECT MAX(Columna) AS MAYOR FROM Tabla;
