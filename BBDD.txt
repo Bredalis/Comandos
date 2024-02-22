@@ -30,7 +30,7 @@ La cláusula "HAVING" se utiliza para especificar una condición que debe cumpli
 finales después de la agrupación y agregación
 
 
-Comandos de SQLITE3  y SQL
+Comandos de SQLITE3 y SQL
 
 
 Los 4 mas importantes comandos de SQL
@@ -97,8 +97,6 @@ Para borrar:
 
 	DELETE FROM Tabla WHERE id = ubicacion;
 	
-	DELETE FROM Tabla WHERE Columna = Valor;
-
 Para borrar BBDD:
 
 	DROP DATABASES BBDD:
@@ -126,11 +124,6 @@ Crear FOREIGN KEY:
 Renombrar nombre de la tabla:
 
 	ALTER TABLE Tabla RENAME TO Nombre Nuevo;
-
-Unir tablas:
-
-	SELECT tabla.columna, tabla2.columna, tabla2.columna2
-	FROM tabla JOIN tabla2 ON tabla.id = tabla.columna3;
 
 Agrupar elementos:
 

@@ -21,7 +21,7 @@ Tipos de prompting
 
 - One-Shot Prompt: prompt con una sola muetra o ejemplo
 
-- Few-Shot Prompt: prompt con  unas pocas muestras o ejemplos
+- Few-Shot Prompt: prompt con unas pocas muestras o ejemplos
 
 
 Potenciales
