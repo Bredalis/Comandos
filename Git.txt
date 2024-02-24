@@ -39,7 +39,7 @@ git rm <archivo>: Elimina un archivo del repositorio
 
 git tag <nombre>: Etiqueta un commit específico con un nombre
 
-git revert <commit>: Deshace un commit específico creando un nuevo commit
+git commit --amend: Deshace un commit específico creando un nuevo commit
 
 git fetch <repositorio remoto>: Descarga cambios del repositorio remoto sin fusionarlos con tu rama actual
 
