@@ -180,3 +180,11 @@ Operador Like:
 	//Letras en medio
 
 	SELECT * FROM Tabla WHERE Columna Like "%Letra%";
+
+Para mostrar todos los datos incluidos los duplicados:
+	
+	SELECT ALL Columna FROM tabla;
+
+Para mostrar los datos sin duplicaciones:
+
+	SELECT DISTINCT columna FROM tabla;
